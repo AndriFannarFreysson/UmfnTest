@@ -1,0 +1,16 @@
+UIApplicationMain
+xamarin_get_block_descriptor
+kBITAuthenticatorErrorDomain
+kBITCrashErrorDomain
+kBITFeedbackErrorDomain
+kBITHockeyErrorDomain
+kBITUpdateErrorDomain
+CreateZStream
+CloseZStream
+Flush
+ReadZStream
+WriteZStream
+xamarin_start_wwan
+xamarin_timezone_get_data
+xamarin_GetFolderPath
+xamarin_log

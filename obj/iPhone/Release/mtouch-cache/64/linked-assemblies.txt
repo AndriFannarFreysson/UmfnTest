@@ -1,0 +1,8 @@
+/Users/andrifreysson/Projects/AndriFannarUmfn/AndriFannarUmfn/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/andrifreysson/Projects/AndriFannarUmfn/AndriFannarUmfn/obj/iPhone/Release/mtouch-cache/64/Link/System.Web.Services.dll
+/Users/andrifreysson/Projects/AndriFannarUmfn/AndriFannarUmfn/obj/iPhone/Release/mtouch-cache/64/Link/HockeySDK.iOSBindings.dll
+/Users/andrifreysson/Projects/AndriFannarUmfn/AndriFannarUmfn/obj/iPhone/Release/mtouch-cache/64/Link/System.Xml.dll
+/Users/andrifreysson/Projects/AndriFannarUmfn/AndriFannarUmfn/obj/iPhone/Release/mtouch-cache/64/Link/System.dll
+/Users/andrifreysson/Projects/AndriFannarUmfn/AndriFannarUmfn/obj/iPhone/Release/mtouch-cache/64/Link/AndriFannarUmfn.exe
+/Users/andrifreysson/Projects/AndriFannarUmfn/AndriFannarUmfn/obj/iPhone/Release/mtouch-cache/64/Link/mscorlib.dll
+/Users/andrifreysson/Projects/AndriFannarUmfn/AndriFannarUmfn/obj/iPhone/Release/mtouch-cache/64/Link/System.Core.dll
